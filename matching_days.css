@@ -1,0 +1,56 @@
+html {
+    border: 3px solid black;
+    height: 45em;
+    background-color: silver;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5em;
+    font-style: italic;
+    color: red;
+    text-shadow: 2px 2px black;
+}
+
+.weekdays {
+    padding-bottom: 30px;
+
+}
+
+.dates {
+    background-color: lightgrey;
+    width: 20em;
+    border: 30px solid blue;
+    padding: 25px;
+    margin: 25px;
+    align-items: center;
+}
+
+table {
+    font-style: oblique;
+    border-collapse: collapse;
+    width: 70%;
+    padding: 50px;
+}
+
+th {
+    border: 4px solid black;
+    text-align: left;
+    padding: 8px;
+    height: 90px;
+    font-size: 2em;
+    text-shadow: 2px 2px red;
+
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
